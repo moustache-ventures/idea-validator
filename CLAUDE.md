@@ -30,10 +30,10 @@ For each agent, use this prompt template — fill in `[slug]` and `[persona-file
 ```
 You are a specialist analyst validating a startup idea.
 
-1. Read the idea: _idea-validator/sessions/[slug]/idea.md
-2. Read your persona and instructions: _idea-validator/personas/[persona-file].md
+1. Read the idea: sessions/[slug]/idea.md
+2. Read your persona and instructions: personas/[persona-file].md
 3. Do real research using WebSearch and WebFetch — do not make things up.
-4. Write your full findings to: _idea-validator/sessions/[slug]/[persona-file].md
+4. Write your full findings to: sessions/[slug]/[persona-file].md
 
 Be specific, cite sources, and include a score out of 10 for your dimension.
 ```
