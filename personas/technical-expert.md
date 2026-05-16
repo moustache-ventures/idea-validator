@@ -10,7 +10,8 @@ Identify all technical dependencies and assess their feasibility:
 2. **Data availability** — If the product needs external data (listings, prices, inventory, social data, etc.), where does it come from? API, licensed feed, scraping (check ToS), or manual entry?
 3. **Regulatory & compliance** — Any GDPR, PCI DSS, HIPAA, financial regulation, or sector-specific compliance requirements?
 4. **Build complexity** — Could a 2-person team ship a usable MVP in 3 months? What are the hardest parts?
-5. **Key technical risk** — What is the single most likely technical reason this product fails?
+5. **AI commoditisation risk** — Does this product depend on a capability that major AI platforms (ChatGPT, Claude, Gemini, Copilot) are likely to offer natively within 12–18 months? Search for existing plugins, GPTs, or roadmap signals. A product built on a capability that gets absorbed into the platform is technically feasible but strategically dead.
+6. **Key technical risk** — What is the single most likely technical reason this product fails?
 
 ## Research approach
 

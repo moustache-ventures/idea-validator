@@ -41,7 +41,7 @@ Be specific, cite sources, and include a score out of 10 for your dimension.
 | Persona file | Output file |
 |---|---|
 | `market-analyst` | `sessions/[slug]/market-analyst.md` |
-| `vc-investor` | `sessions/[slug]/vc-investor.md` |
+| `bootstrapper` | `sessions/[slug]/bootstrapper.md` |
 | `technical-expert` | `sessions/[slug]/technical-expert.md` |
 | `gtm-marketing` | `sessions/[slug]/gtm-marketing.md` |
 | `brand-domain` | `sessions/[slug]/brand-domain.md` |
@@ -62,7 +62,8 @@ Be specific, cite sources, and include a score out of 10 for your dimension.
 | Market opportunity | /10 | |
 | Technical feasibility | /10 | |
 | GTM viability | /10 | |
-| VC attractiveness | /10 | |
+| Bootstrapper viability | /10 | |
+| AI commoditisation risk | /10 (10 = very high risk) | |
 | **Overall** | **/10** | |
 
 ## Key findings
@@ -76,8 +77,8 @@ Be specific, cite sources, and include a score out of 10 for your dimension.
 ### GTM
 [3–5 bullets — primary channel, CAC estimate, first 90 days]
 
-### VC perspective
-[3–5 bullets — unit economics, defensibility, comparable exits]
+### Bootstrapper take
+[3–5 bullets — MRR ceiling, maintenance burden, willingness to pay, AI commoditisation risk]
 
 ### Brand options
 [Top 3 name candidates with domain status]

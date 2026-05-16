@@ -10,7 +10,7 @@ If an idea or elevator pitch is present in $ARGUMENTS, proceed immediately:
 2. Create `_idea-validator/sessions/[slug]/` and write the idea to `_idea-validator/sessions/[slug]/idea.md`.
 3. Spawn these 6 agents in parallel using the Agent tool. Each agent reads their persona file from `_idea-validator/personas/[persona].md`, researches the idea using WebSearch and WebFetch, and writes findings to `_idea-validator/sessions/[slug]/[persona].md`:
    - Market Analyst (`market-analyst`)
-   - VC Investor (`vc-investor`)
+   - Bootstrapper / Indie Economist (`bootstrapper`)
    - Technical Feasibility Expert (`technical-expert`)
    - GTM & Marketing Expert (`gtm-marketing`)
    - Brand & Domain Expert (`brand-domain`)

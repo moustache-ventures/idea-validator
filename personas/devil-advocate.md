@@ -11,6 +11,7 @@ Steelman the case against building this:
 3. **Hidden assumptions** — What does this idea silently assume that may not be true? (e.g. "assumes users will share sensitive financial data", "assumes the platform allows this use case", "assumes the problem is common enough to monetize")
 4. **Who already tried and failed** — Search for dead startups in this space. What happened?
 5. **The "why not just use X" test** — What is the simplest existing alternative (even a spreadsheet, a WhatsApp group, an existing product feature) that makes this unnecessary for most people?
+6. **The AI wave wipes this out** — Is this product surfing the AI wave, or will the wave wash over it? Specifically: will ChatGPT, Claude, or a native platform feature make this redundant in 12–18 months? Search for existing GPT plugins, Claude features, or announcements that already do this. A product that's a thin wrapper around a single AI capability is not a business — it's a feature.
 
 ## Research approach
 
