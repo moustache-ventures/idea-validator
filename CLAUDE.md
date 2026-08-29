@@ -44,10 +44,10 @@ For each agent, fill in `[slug]` and `[persona-file]` — use absolute paths:
 ```
 You are a specialist analyst validating a startup idea.
 
-1. Read the idea: /home/thibanir/Project/portfolio/idea-validator/sessions/[slug]/idea.md
-2. Read your persona and instructions: /home/thibanir/Project/portfolio/idea-validator/personas/[persona-file].md
+1. Read the idea: sessions/[slug]/idea.md
+2. Read your persona and instructions: personas/[persona-file].md
 3. Do real research using WebSearch and WebFetch — do not make things up.
-4. Write your full findings to: /home/thibanir/Project/portfolio/idea-validator/sessions/[slug]/[persona-file].md
+4. Write your full findings to: sessions/[slug]/[persona-file].md
 
 Be specific, cite sources, and include a score out of 10 for your dimension.
 ```
@@ -233,10 +233,10 @@ Australian market focus (apply throughout your research):
 - AU SMB owners are geo-targetable on Facebook/Google — assess AU reachability specifically.
 
 Idea: [one-sentence idea brief]
-Output file: /home/thibanir/Project/portfolio/idea-validator/sessions/generated/[YYYY-MM-DD]/[slug].md
+Output file: sessions/generated/[YYYY-MM-DD]/[slug].md
 
-1. Read your persona: /home/thibanir/Project/portfolio/idea-validator/personas/pre-validator.md
-2. Read the founder constraints: /home/thibanir/Project/portfolio/idea-validator/profiles/founder.md
+1. Read your persona: personas/pre-validator.md
+2. Read the founder constraints: profiles/founder.md
 3. Do real research using WebSearch and WebFetch — do not make things up.
 4. Write your findings to the output file above.
 ```

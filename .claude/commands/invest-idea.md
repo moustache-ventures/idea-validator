@@ -2,13 +2,13 @@ Commit to building an idea: mark it as build, generate the build brief if missin
 
 Usage: /invest-idea <slug>
 
-The idea-validator repo lives at: /home/thibanir/Project/portfolio/idea-validator/
+All paths below are relative to the idea-validator repo root (this repo).
 
 The slug to act on is: $ARGUMENTS
 
-Follow Mode 5 in `/home/thibanir/Project/portfolio/idea-validator/CLAUDE.md`:
+Follow Mode 5 in `CLAUDE.md`:
 
-1. Read `/home/thibanir/Project/portfolio/idea-validator/ideas-index.md`.
+1. Read `ideas-index.md`.
 2. Find the table row matching $ARGUMENTS. If not found, tell the user and list closest slugs.
 3. Check whether `sessions/$ARGUMENTS/summary.md` exists. If not, warn the user and ask whether to proceed anyway.
 4. Update that row: Status → `build`, prepend `Building — ` to the Verdict text.
