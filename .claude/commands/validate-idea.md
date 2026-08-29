@@ -18,6 +18,7 @@ If an idea or elevator pitch is present in $ARGUMENTS, proceed immediately:
    - Brand & Domain Expert (`brand-domain`)
    - Devil's Advocate (`devil-advocate`)
 4. Synthesize all findings into `/home/thibanir/Project/portfolio/idea-validator/sessions/[slug]/summary.md`.
-5. Present the summary and enter debate mode as panel moderator.
+5. Print the idea (the full contents of `sessions/[slug]/idea.md`) under a `## Idea` heading before presenting the summary.
+6. Present the summary and enter debate mode as panel moderator.
 
 Full orchestration instructions are in `/home/thibanir/Project/portfolio/idea-validator/CLAUDE.md`.
